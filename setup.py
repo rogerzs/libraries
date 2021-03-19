@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
   name='transform_parameters',
-  version='0.0.3',
+  version='0.0.3.1',
   author='Rogério Ferreira',
   author_email='rogeroficial1506@gmail.com',
   description='Small transformation package to specific project',
